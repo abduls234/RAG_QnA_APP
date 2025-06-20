@@ -27,11 +27,10 @@ This app allows users to upload a collection of PDF documents, creates vector em
 - dotenv for environment variables
 - Access to Groq API and Google API keys
 
-### Setup
-
-1. Clone the repository:
+### For Setup
 
 ```bash
 git clone https://github.com/yourusername/rag-qna-app.git
 cd rag-qna-app
 pip install -r requirements.txt
+
